@@ -1,0 +1,45 @@
+polymorphism : One way many forms
+
+--> Method Overloading
+Signature: return_type method_name(no. of arguments)
+
+
+Either we change return_type or we change no. of arguments for a method but method name will remain same
+
+--> with or without inheritance
+
+void add(){
+
+
+}
+
+void add(int a, int b){
+
+}
+
+long add(long a, long b){
+
+return a+b;
+
+}
+
+
+--> Method Overriding
+
+mandatory: inheritance
+
+Signature: return_type, method_name and no. of arguments all must be same
+
+
+
+
+
+
+
+
+
+
+
+
+
+
